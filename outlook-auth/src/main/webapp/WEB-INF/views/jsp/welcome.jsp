@@ -142,7 +142,7 @@
 	var sess_state;
 	
 	function getUrlBase() {
-		return 'https://xinefserver.com:9090/outlook-auth/';
+		return 'http://xinefserver.com:9090/myapp';
 	}
 	
 	jQuery(document).ready(function($) {
